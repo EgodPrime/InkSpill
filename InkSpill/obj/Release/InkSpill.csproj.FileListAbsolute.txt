@@ -1,0 +1,9 @@
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\bin\Release\InkSpill.exe.config
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\bin\Release\InkSpill.exe
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\bin\Release\InkSpill.pdb
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Release\InkSpill.Form1.resources
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Release\InkSpill.Properties.Resources.resources
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Release\InkSpill.csproj.GenerateResource.cache
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Release\InkSpill.csproj.CoreCompileInputs.cache
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Release\InkSpill.exe
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Release\InkSpill.pdb

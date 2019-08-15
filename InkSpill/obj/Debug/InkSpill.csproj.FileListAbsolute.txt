@@ -1,0 +1,10 @@
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\bin\Debug\InkSpill.exe.config
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\bin\Debug\InkSpill.exe
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\bin\Debug\InkSpill.pdb
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Debug\InkSpill.csprojAssemblyReference.cache
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Debug\InkSpill.Form1.resources
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Debug\InkSpill.Properties.Resources.resources
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Debug\InkSpill.csproj.GenerateResource.cache
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Debug\InkSpill.csproj.CoreCompileInputs.cache
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Debug\InkSpill.exe
+E:\EgodFiles\Scripts\CsharpSpace\InkSpill\InkSpill\obj\Debug\InkSpill.pdb
